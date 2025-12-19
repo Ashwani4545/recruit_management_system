@@ -15,7 +15,7 @@ It enables online job postings, application management, resume handling, intervi
 
 This project is built using PHP, MySQL, HTML, CSS, and JavaScript and follows a modular structure for easy maintenance and scalability.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Automate the recruitment and placement process
 
