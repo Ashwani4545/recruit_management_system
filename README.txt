@@ -5,11 +5,11 @@ The Recruitment Management System (RMS) is a web-based application designed to s
 
 The system supports multiple user roles such as:
 
-Applicants (students/job seekers)
+- Applicants (students/job seekers)
 
-Employers
+- Employers
 
-Administrators
+- Administrators
 
 It enables online job postings, application management, resume handling, interview scheduling, shortlisting, and reporting — all through a centralized platform.
 
