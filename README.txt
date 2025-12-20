@@ -27,7 +27,7 @@ Enable efficient resume shortlisting and interview tracking
 
 Support employer–applicant interaction through a web interface
 
-🏗️ Project Architecture
+#🏗️ Project Architecture
 
 The system follows a multi-module PHP-based architecture with server-side scripting and database-backed storage.
 
@@ -43,7 +43,7 @@ Reports & Exports: PDF, CSV
 
 Authentication & Authorization
 
-📂 Project Structure
+#📂 Project Structure
 recruit_management_system/
 │
 ├── applications/        # Job applications handling
@@ -76,7 +76,7 @@ recruit_management_system/
 ├── README.txt
 └── VERSION
 
-👥 User Roles & Functionalities
+##👥 User Roles & Functionalities
 👨‍🎓 Applicant (Student)
 
 Register & login
