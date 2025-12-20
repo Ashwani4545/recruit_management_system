@@ -1,5 +1,5 @@
-#🧑‍💼 Recruitment Management System
-##📌 Project Overview
+# 🧑‍💼 Recruitment Management System
+## 📌 Project Overview
 
 The Recruitment Management System (RMS) is a web-based application designed to streamline and manage the end-to-end recruitment process for institutions, companies, and placement cells.
 
