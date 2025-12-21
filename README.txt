@@ -90,7 +90,7 @@ Track application status
 
 View interview schedules
 
-🏢 Employer
+##🏢 Employer
 
 Register & login
 
@@ -104,7 +104,7 @@ Schedule interviews
 
 Generate reports
 
-🛠️ Administrator
+##🛠️ Administrator
 
 Manage users (students & employers)
 
@@ -114,7 +114,7 @@ Generate system reports
 
 Maintain system configurations
 
-🧠 Key Features
+##🧠 Key Features
 
 User authentication & role-based access
 
@@ -132,7 +132,7 @@ PDF & data export functionality
 
 Modular and extensible design
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 Layer	Technology
 Frontend	HTML, CSS, JavaScript
 Backend	PHP
