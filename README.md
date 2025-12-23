@@ -91,7 +91,7 @@ Track application status
 
 View interview schedules
 
-##🏢 Employer
+## 🏢 Employer
 
 Register & login
 
@@ -105,7 +105,7 @@ Schedule interviews
 
 Generate reports
 
-##🛠️ Administrator
+## 🛠️ Administrator
 
 Manage users (students & employers)
 
@@ -115,7 +115,7 @@ Generate system reports
 
 Maintain system configurations
 
-##🧠 Key Features
+## 🧠 Key Features
 
 User authentication & role-based access
 
