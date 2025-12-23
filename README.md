@@ -172,8 +172,6 @@ Copy the project folder to:
 htdocs/ (XAMPP)
 ```
 
-Update database credentials in configuration files (if any)
-
 4️⃣ Run the Application
 
 Open browser and navigate to:
