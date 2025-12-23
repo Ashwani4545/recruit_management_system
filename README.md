@@ -133,8 +133,7 @@ PDF & data export functionality
 
 Modular and extensible design
 
-##🛠️ Technologies Used
-```
+## 🛠️ Technologies Used
 Layer	Technology
 Frontend	HTML, CSS, JavaScript
 Backend	PHP
@@ -142,10 +141,10 @@ Database	MySQL
 Server	Apache (XAMPP / WAMP / LAMP)
 Reports	PDF generation
 Scripting	PHP Modules
-```
+
 ⚙️ Installation & Setup
 1️⃣ Prerequisites
-
+```
 PHP 7.x or higher
 
 MySQL
@@ -153,7 +152,7 @@ MySQL
 Apache Server
 
 XAMPP / WAMP / LAMP recommended
-
+```
 2️⃣ Database Setup
 
 Open phpMyAdmin
