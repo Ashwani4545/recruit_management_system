@@ -45,6 +45,7 @@ Reports & Exports: PDF, CSV
 Authentication & Authorization
 
 ## 📂 Project Structure
+```
 recruit_management_system/
 │
 ├── applications/        # Job applications handling
@@ -76,6 +77,7 @@ recruit_management_system/
 ├── LICENSE.txt
 ├── README.txt
 └── VERSION
+```
 
 ## 👥 User Roles & Functionalities
 ### 👨‍🎓 Applicant (Student)
