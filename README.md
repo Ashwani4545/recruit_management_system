@@ -208,12 +208,12 @@ Cloud deployment
 
 This project is licensed under the terms mentioned in LICENSE.txt.
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Ashwani Pandey
 Software & Web Application Developer
 
-📞 Support
+## 📞 Support
 
 For issues, feature requests, or improvements:
 
