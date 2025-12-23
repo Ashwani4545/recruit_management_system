@@ -178,7 +178,7 @@ Open browser and navigate to:
 
 http://localhost/recruit_management_system/
 ```
-🔐 Security Considerations
+## 🔐 Security Considerations
 
 Password hashing recommended (if not already implemented)
 
