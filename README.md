@@ -204,7 +204,7 @@ Modern UI using React or Bootstrap
 
 Cloud deployment
 
-📜 License
+## 📜 License
 
 This project is licensed under the terms mentioned in LICENSE.txt.
 
