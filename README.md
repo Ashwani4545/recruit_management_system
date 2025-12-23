@@ -166,11 +166,11 @@ Import SQL files from:
 /SQL/
 ```
 3️⃣ Project Setup
-
+```
 Copy the project folder to:
 
 htdocs/ (XAMPP)
-
+```
 
 Update database credentials in configuration files (if any)
 
