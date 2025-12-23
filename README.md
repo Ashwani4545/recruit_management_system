@@ -188,7 +188,7 @@ Role-based access control should be enforced
 
 Secure file uploads (resume & documents)
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 
 Email notifications for job updates
 
