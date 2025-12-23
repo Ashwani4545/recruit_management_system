@@ -134,6 +134,7 @@ PDF & data export functionality
 Modular and extensible design
 
 ## 🛠️ Technologies Used
+
 Layer	Technology
 Frontend	HTML, CSS, JavaScript
 Backend	PHP
@@ -143,6 +144,7 @@ Reports	PDF generation
 Scripting	PHP Modules
 
 ⚙️ Installation & Setup
+
 1️⃣ Prerequisites
 ```
 PHP 7.x or higher
@@ -154,7 +156,7 @@ Apache Server
 XAMPP / WAMP / LAMP recommended
 ```
 2️⃣ Database Setup
-
+```
 Open phpMyAdmin
 
 Create a new database (e.g., recruitment_db)
@@ -162,7 +164,7 @@ Create a new database (e.g., recruitment_db)
 Import SQL files from:
 
 /SQL/
-
+```
 3️⃣ Project Setup
 
 Copy the project folder to:
