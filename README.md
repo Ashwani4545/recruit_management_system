@@ -93,31 +93,21 @@ recruit_management_system/
 
 ## 🛠️ Administrator
 
-Manage users (students & employers)
-
-Monitor recruitment activities
-
-Generate system reports
-
-Maintain system configurations
+- Manage users (students & employers)
+- Monitor recruitment activities
+- Generate system reports
+- Maintain system configurations
 
 ## 🧠 Key Features
 
-User authentication & role-based access
-
-Resume & document management
-
-Job posting & application tracking
-
-Candidate shortlisting
-
-Interview scheduling
-
-Search & filtering system
-
-PDF & data export functionality
-
-Modular and extensible design
+- User authentication & role-based access
+- Resume & document management
+- Job posting & application tracking
+- Candidate shortlisting
+- Interview scheduling
+- Search & filtering system
+- PDF & data export functionality
+- Modular and extensible design
 
 ## 🛠️ Technologies Used
 ```
@@ -155,45 +145,31 @@ htdocs/ (XAMPP)
 Open browser and navigate to:
 http://localhost/recruit_management_system/
 ```
+
 ## 🔐 Security Considerations
 
-Password hashing recommended (if not already implemented)
-
-Input validation required to prevent SQL Injection
-
-Role-based access control should be enforced
-
-Secure file uploads (resume & documents)
+- Password hashing recommended (if not already implemented)
+- Input validation required to prevent SQL Injection
+- Role-based access control should be enforced
+- Secure file uploads (resume & documents)
 
 ## 📈 Future Enhancements
 
-Email notifications for job updates
-
-Resume ranking using AI/ML
-
-Online interview integration
-
-Admin analytics dashboard
-
-REST API support
-
-Modern UI using React or Bootstrap
-
-Cloud deployment
+- Email notifications for job updates
+- Resume ranking using AI/ML
+- Online interview integration
+- Admin analytics dashboard
+- REST API support
+- Modern UI using React or Bootstrap
+- Cloud deployment
 
 ## 📜 License
-
 This project is licensed under the terms mentioned in LICENSE.txt.
 
 ## 👨‍💻 Author
-
 Ashwani Pandey
-Software & Web Application Developer
 
 ## 📞 Support
-
 For issues, feature requests, or improvements:
-
 Create an issue in the repository
-
 Contact the project maintainer
