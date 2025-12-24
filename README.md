@@ -155,24 +155,18 @@ XAMPP / WAMP / LAMP recommended
 2️⃣ Database Setup
 ```
 Open phpMyAdmin
-
 Create a new database (e.g., recruitment_db)
-
 Import SQL files from:
-
 /SQL/
 ```
 3️⃣ Project Setup
 ```
 Copy the project folder to:
-
 htdocs/ (XAMPP)
 ```
-
 4️⃣ Run the Application
 ```
 Open browser and navigate to:
-
 http://localhost/recruit_management_system/
 ```
 ## 🔐 Security Considerations
