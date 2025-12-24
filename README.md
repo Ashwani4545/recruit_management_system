@@ -1,14 +1,10 @@
 # 🧑‍💼 Recruitment Management System
 ## 📌 Project Overview
-
 The Recruitment Management System (RMS) is a web-based application designed to streamline and manage the end-to-end recruitment process for institutions, companies, and placement cells.
 
 The system supports multiple user roles such as:
-
 - Applicants (students/job seekers)
-
 - Employers
-
 - Administrators
 
 It enables online job postings, application management, resume handling, interview scheduling, shortlisting, and reporting — all through a centralized platform.
@@ -16,15 +12,10 @@ It enables online job postings, application management, resume handling, intervi
 This project is built using PHP, MySQL, HTML, CSS, and JavaScript and follows a modular structure for easy maintenance and scalability.
 
 ## 🎯 Objectives
-
 - Automate the recruitment and placement process
-
 - Reduce manual paperwork and administrative overhead
-
 - Provide a centralized system for job postings and applications
-
 - Enable efficient resume shortlisting and interview tracking
-
 - Support employer–applicant interaction through a web interface
 
 ## 🏗️ Project Architecture
@@ -75,15 +66,13 @@ recruit_management_system/
 
 ## 👥 User Roles & Functionalities
 ### 👨‍🎓 Applicant (Student)
-
 - Register & login
 - Upload resumes and cover letters
 - Apply for jobs
 - Track application status
 - View interview schedules
 
-## 🏢 Employer
-
+### 🏢 Employer
 - Register & login
 - Post job openings
 - View applicant resumes
@@ -91,15 +80,13 @@ recruit_management_system/
 - Schedule interviews
 - Generate reports
 
-## 🛠️ Administrator
-
+### 🛠️ Administrator
 - Manage users (students & employers)
 - Monitor recruitment activities
 - Generate system reports
 - Maintain system configurations
 
-## 🧠 Key Features
-
+### 🧠 Key Features
 - User authentication & role-based access
 - Resume & document management
 - Job posting & application tracking
@@ -119,8 +106,8 @@ Server:- Apache (XAMPP / WAMP / LAMP)
 Reports:- PDF generation
 Scripting:- PHP Modules
 ```
-⚙️ Installation & Setup
 
+## ⚙️ Installation & Setup
 1️⃣ Prerequisites
 ```
 PHP 7.x or higher
@@ -147,14 +134,12 @@ http://localhost/recruit_management_system/
 ```
 
 ## 🔐 Security Considerations
-
 - Password hashing recommended (if not already implemented)
 - Input validation required to prevent SQL Injection
 - Role-based access control should be enforced
 - Secure file uploads (resume & documents)
 
 ## 📈 Future Enhancements
-
 - Email notifications for job updates
 - Resume ranking using AI/ML
 - Online interview integration
@@ -171,5 +156,4 @@ Ashwani Pandey
 
 ## 📞 Support
 For issues, feature requests, or improvements:
-Create an issue in the repository
-Contact the project maintainer
+Create an issue in the repository and contact the project maintainer
