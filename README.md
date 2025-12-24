@@ -17,31 +17,26 @@ This project is built using PHP, MySQL, HTML, CSS, and JavaScript and follows a 
 
 ## 🎯 Objectives
 
-Automate the recruitment and placement process
+- Automate the recruitment and placement process
 
-Reduce manual paperwork and administrative overhead
+- Reduce manual paperwork and administrative overhead
 
-Provide a centralized system for job postings and applications
+- Provide a centralized system for job postings and applications
 
-Enable efficient resume shortlisting and interview tracking
+- Enable efficient resume shortlisting and interview tracking
 
-Support employer–applicant interaction through a web interface
+- Support employer–applicant interaction through a web interface
 
 ## 🏗️ Project Architecture
-
 The system follows a multi-module PHP-based architecture with server-side scripting and database-backed storage.
-
+```
 High-Level Components:
-
 Frontend: HTML, CSS, JavaScript
-
 Backend: PHP
-
 Database: MySQL
-
 Reports & Exports: PDF, CSV
-
 Authentication & Authorization
+```
 
 ## 📂 Project Structure
 ```
@@ -81,29 +76,20 @@ recruit_management_system/
 ## 👥 User Roles & Functionalities
 ### 👨‍🎓 Applicant (Student)
 
-Register & login
-
-Upload resumes and cover letters
-
-Apply for jobs
-
-Track application status
-
-View interview schedules
+- Register & login
+- Upload resumes and cover letters
+- Apply for jobs
+- Track application status
+- View interview schedules
 
 ## 🏢 Employer
 
-Register & login
-
-Post job openings
-
-View applicant resumes
-
-Shortlist candidates
-
-Schedule interviews
-
-Generate reports
+- Register & login
+- Post job openings
+- View applicant resumes
+- Shortlist candidates
+- Schedule interviews
+- Generate reports
 
 ## 🛠️ Administrator
 
